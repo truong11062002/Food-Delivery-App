@@ -13,3 +13,11 @@
 ![Payment](https://user-images.githubusercontent.com/74360292/185731490-00446d3c-af38-47cd-be1b-60eb18d9f897.png)
 ![Signup](https://user-images.githubusercontent.com/74360292/185731491-d24afcc5-e71a-48f7-abae-f43a7331023c.png)
 
+## THÀNH VIÊN NHÓM
+<a name="thanhvien"></a>
+| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
+| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
+| 1      | 20522087      | Nguyễn Nhật Trường     |https://github.com/truong11062002                     |20522087@gm.uit.edu.vn   |
+| 2      | 20520481      | Lê Trương Ngọc Hải     |https://github.com/letruongngochai                    |20520481@gm.uit.edu.vn   |
+| 3      | 20520355      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |20520355@gm.uit.edu.vn   |
+| 4      | 20520309      | Lại Chí Thiện          |https://github.com/laichithien                        |20520309@gm.uit.edu.vn   |
