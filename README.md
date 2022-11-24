@@ -1,3 +1,12 @@
+## THÀNH VIÊN NHÓM
+<a name="thanhvien"></a>
+| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
+| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
+| 1      | 20522087      | Nguyễn Nhật Trường     |https://github.com/truong11062002                     |20522087@gm.uit.edu.vn   |
+| 2      | 20520481      | Lê Trương Ngọc Hải     |https://github.com/letruongngochai                    |20520481@gm.uit.edu.vn   |
+| 3      | 20520355      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |20520355@gm.uit.edu.vn   |
+| 4      | 20520309      | Lại Chí Thiện          |https://github.com/laichithien                        |20520309@gm.uit.edu.vn   |
+
 # Demo
 ## Food Delivery App with React Native framework
 ![Cart](https://user-images.githubusercontent.com/74360292/185731476-974983d4-03a9-4f26-a845-8a3c8cc9b8a8.png)
